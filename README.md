@@ -107,10 +107,6 @@ AutomationTool_1/
 - Run the application with appropriate permissions
 - Try with a different folder
 
-## License
-
-This project is provided as-is for automation purposes.
-
 ## Support
 
 For issues or feature requests, please check the error messages in the application for guidance.
