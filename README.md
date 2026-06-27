@@ -106,7 +106,3 @@ AutomationTool_1/
 - Check folder access permissions
 - Run the application with appropriate permissions
 - Try with a different folder
-
-## Support
-
-For issues or feature requests, please check the error messages in the application for guidance.
